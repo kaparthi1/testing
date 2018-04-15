@@ -7,4 +7,10 @@ This is Dheeraj , testing for branch
 >>>>>>> upstream/master
 
 This is testing for checking the
+<<<<<<< HEAD
 FORK
+
+This is second line added - RB01
+=======
+FORK
+>>>>>>> upstream/master
