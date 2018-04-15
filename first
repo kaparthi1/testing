@@ -1,3 +1,7 @@
 This is to test the fork and branching
+<<<<<<< HEAD
+This new line added by Raja Bala
+=======
 Added the data into bracnh 3
 This is Dheeraj , testing for branch
+>>>>>>> upstream/master
